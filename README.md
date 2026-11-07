@@ -16,6 +16,33 @@ GoosTeams - Защищенный клиент обмена мгновенным�
 - `GoosTeams_Setup.exe` - Файл, скачивающий само приложение (Windows)
 - "GoosTeams.apk" - Приложение для телефона (Android)
 - "index.html" - Фронтенд сайта мессенджера (https://gusi3000gusi-alt.github.io/goosweb/)
+
+- ##  Установка мессенджера для ПК (Windows) / PC Installation Guide
+
+### 🇷🇺 Инструкция на русском языке:
+Мессенджер **Goos teams** v1.1.1 использует встроенные защищённые протоколы шифрования и напрямую подключается к облачной базе данных Google Firebase Firestore через криптографические шлюзы. 
+
+Чтобы Windows не блокировала сетевые пакеты приложения и пульт управления **Goos Control Hub**, запускать установочный файл на компьютере необходимо **строго с правами суперпользователя**.
+
+**Пошаговый запуск:**
+1. Скачайте файл `GoosTeams_Setup.exe` с официального Яндекс Диска мессенджера.
+2. Кликните по скачанному файлу **правой кнопкой мыши**.
+3. В появившемся контекстном меню выберите пункт: **"Запуск от имени администратора"** (Run as administrator).
+4. Подтвердите действие в окне Windows и завершите установку. Мессенджер готов к работе!
+
+---
+
+### 🇺🇸 English Instruction:
+The **Goos teams** v1.1.1 desktop client utilizes advanced end-to-end encryption protocols and connects directly to the Google Firebase Firestore cloud infrastructure.
+
+To prevent Windows SmartScreen or UAC from blocking the secure network database layer and the built-in **Goos Control Hub**, you must run the installation wizard with elevated administrator privileges.
+
+**How to install:**
+1. Download the `GoosTeams_Setup.exe` binary from our verified Yandex Disk storage location.
+2. Right-click on the downloaded `.exe` file.
+3. In the context menu, select: **"Run as administrator"**.
+4. Confirm the Windows UAC prompt and follow the installation steps. Your secure workspace is ready!
+
 ## Лицензия
 
 MIT
