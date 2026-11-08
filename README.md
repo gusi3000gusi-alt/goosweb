@@ -16,6 +16,7 @@ GoosTeams - Защищенный клиент обмена мгновенным�
     'GoosTeams.apk' - Приложение для телефона (Android)
 
     'index.html' - Фронтенд сайта мессенджера (https://gusi3000gusi-alt.github.io/)
+
     Установка мессенджера для ПК (Windows) / PC Installation Guide
 
 🇷🇺 Инструкция на русском языке:
@@ -49,5 +50,6 @@ How to install:
     Confirm the Windows UAC prompt and follow the installation steps. Your secure workspace is ready!
 
 Лицензия
+
 
 MIT
