@@ -15,7 +15,7 @@ GoosTeams - Защищенный клиент обмена мгновенным�
 
 - `GoosTeams_Setup.exe` - Файл, скачивающий само приложение (Windows)
 - "GoosTeams.apk" - Приложение для телефона (Android)
-- "index.html" - Фронтенд сайта мессенджера (https://gusi3000gusi-alt.github.io/goosweb/)
+- "index.html" - Фронтенд сайта мессенджера (https://gusi3000gusi-alt.github.io/)
 
 - ##  Установка мессенджера для ПК (Windows) / PC Installation Guide
 
