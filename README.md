@@ -31,6 +31,8 @@ GoosTeams - Защищенный клиент обмена мгновенным�
     В появившемся контекстном меню выберите пункт: "Запуск от имени администратора" (Run as administrator).
     Подтвердите действие в окне Windows и завершите установку. Мессенджер готов к работе!
 
+Если вы хотите проверить подлинность файлов смотрите SHA256SUM.md в релизе.
+
 🇺🇸 English Instruction:
 
 The Goos teams v1.2.2 desktop client utilizes advanced end-to-end encryption protocols and connects directly to the Google Firebase Firestore cloud infrastructure.
@@ -43,6 +45,8 @@ How to install:
     Right-click on the downloaded .exe file.
     In the context menu, select: "Run as administrator".
     Confirm the Windows UAC prompt and follow the installation steps. Your secure workspace is ready!
+
+If you want to verify the files check SHA256SUM.md in release
 
 Лицензия
 
